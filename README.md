@@ -1,5 +1,5 @@
 # trendy
 trend bot for dataset
 
-ürün ve satıcı hakkında bazı kategorilerde hakkında dataset oluşturmak için yazılmıştır.
+ürün ve satıcılara ait yorum,begeni,degerlendirme sayıları gibi dataları içerir
 
